@@ -8,4 +8,3 @@
 - 🌱 Curious about what I used to do before coding ? -> www.remibuscot.com
 
 📩 Wanna get in touch ? buscot.remi@gmail.com
-
