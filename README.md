@@ -1,4 +1,4 @@
-**Hi there and welcome on my github page** 👋   
+**Hi and welcome on my github** 👋   
 
 
 🤓 I am Rémi, a newly graduated Ruby on Rails developper <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="25" height="25">
